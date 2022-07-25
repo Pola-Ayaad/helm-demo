@@ -1,6 +1,7 @@
 # Deploy python app using Helm 
 
 1- Cloning the repository Git clone https://github.com/tradebyte/DevOps-Challenge.git
+
 2- Creating DockerFile 
 3- Building DockerFile Docker build -t (image name)
 4- login to your dockerhub docker login --- enter your user name and password 
