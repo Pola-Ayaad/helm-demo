@@ -1,0 +1,4 @@
+replication_count: 1 
+image: 
+  repository: app
+  version: v1.0.0
